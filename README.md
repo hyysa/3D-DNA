@@ -1,4 +1,4 @@
-# GRAFIKA KOMPUTER
+# MULTIMEDIA
 
 | Nama Mata Kuliah | MULTIMEDIA                                                          |
 | ---------------- | ------------------------------------------------------------------- |
