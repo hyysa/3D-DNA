@@ -3,7 +3,7 @@
 | Nama Mata Kuliah | MULTIMEDIA                                                          |
 | ---------------- | ------------------------------------------------------------------- |
 | Dosen Pengampu   | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
-| Tahun Ajaran     | Ganjil 2024/2023                                                    |
+| Tahun Ajaran     | Ganjil 2024/2025                                                    |
 | Kelas            | REGULER                                                             |
 | Email            | mohammadfariedrahmat@unisbablitar.ac.id                             |
 | Institusi        | fti.unisbablitar.ac.id                                              |
